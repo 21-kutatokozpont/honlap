@@ -24,6 +24,7 @@ jobs:
           server-dir: /public_html/
 
           exclude: |
+            asstes/**
             wp-content/**
             backup_fabi/**
             backup_old/**
